@@ -1,0 +1,8 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Seeed_Studio_XIAO_Series") (type "KiCad") (uri "${KIPRJMOD}/libraries/OPL_Kicad_Library/Seeed Studio XIAO Series Library") (options "") (descr "Seeed Studio XIAO Series Official Footprints"))
+	(lib (name "Seeed Studio XIAO Series Library") (type "KiCad") (uri "${KIPRJMOD}/libraries/OPL_Kicad_Library/Seeed Studio XIAO Series Library") (options "") (descr "Seeed Studio XIAO Series Official Footprints"))
+	(lib (name "XIAO_ESP32C3") (type "KiCad") (uri "${KIPRJMOD}/libraries/XIAO_ESP32C3_Battery") (options "") (descr "XIAO ESP32C3 with Battery Pads Footprint"))
+	(lib (name "XIAO_ESP32C3_Battery") (type "KiCad") (uri "${KIPRJMOD}/libraries/XIAO_ESP32C3_Battery") (options "") (descr "XIAO ESP32C3 with Battery Pads Footprint"))
+	(lib (name "ATmega328P_AU") (type "KiCad") (uri "${KIPRJMOD}/libraries/ATmega328P_AU") (options "") (descr "ATmega328P-AU TQFP-32 Footprint"))
+)

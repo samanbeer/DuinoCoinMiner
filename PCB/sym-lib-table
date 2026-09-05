@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Seeed_Studio_XIAO_Series") (type "KiCad") (uri "${KIPRJMOD}/libraries/OPL_Kicad_Library/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym") (options "") (descr "Seeed Studio XIAO Series Official Symbols"))
+	(lib (name "XIAO_ESP32C3_Battery") (type "KiCad") (uri "${KIPRJMOD}/libraries/XIAO_ESP32C3_Battery/xiao_esp32c3.kicad_sym") (options "") (descr "XIAO ESP32C3 with Battery Pads Symbol"))
+	(lib (name "ATmega328P_AU") (type "KiCad") (uri "${KIPRJMOD}/libraries/ATmega328P_AU/ATmega328P_AU.kicad_sym") (options "") (descr "ATmega328P-AU TQFP-32 Symbol"))
+)
